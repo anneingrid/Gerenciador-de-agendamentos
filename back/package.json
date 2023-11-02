@@ -1,0 +1,23 @@
+{
+  "name": "back",
+  "version": "1.0.0",
+  "description": "",
+  "main": "api.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anneingrid/Gerenciador-de-agendamentos.git"
+  },
+  "author": "anne",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anneingrid/Gerenciador-de-agendamentos/issues"
+  },
+  "homepage": "https://github.com/anneingrid/Gerenciador-de-agendamentos#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "sqlite3": "^5.1.6"
+  }
+}
